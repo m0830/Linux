@@ -6,8 +6,8 @@
 - cp
 - mv
 - rm
-- >
-- >>
+- eco >
+- eco >>
 - cat
 - vi
 
